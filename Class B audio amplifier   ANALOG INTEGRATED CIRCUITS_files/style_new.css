@@ -1,0 +1,381 @@
+* {margin:0;padding:0}
+
+body {
+   font: 81.25%/1.4 Verdana, Arial, Tahoma, Sans-Serif;
+   background: #e1e1e2;
+   text-align: center;
+   margin:  auto;
+   color: #333;
+}
+
+dt { width: 10px; float: left; }
+dd { margin-left: 5px; } 
+
+
+a:link, a:visited {
+   color: #FCFCFC;
+   text-decoration: underline;
+}
+a:hover, a:focus {
+   color: white;
+   text-decoration: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+   font-family: "Trebuchet MS", "Georgia", "Serif";
+   font-weight: normal;
+}
+h1 {
+   margin-top: 0.6em;
+  font-size: 210%;
+   color: #738FBF;
+}
+h2 {
+  font-size: 150%;
+}
+h3 {
+  font-size: 140%;
+}
+h4 {
+  font-size: 170%;
+}
+
+#container {
+  position: relative;
+  background: #fff url(/styles/images/contrepeat.gif) top left repeat-y;
+  width: 95%;
+  margin: 0 auto;
+}
+
+
+#google-ads {
+  margin-top: 5px;
+}
+
+
+
+#contentWrap {
+  text-align: left;
+}
+
+#main {
+  padding: 0px 15px;
+  margin-left: 200px;
+}
+#main p {
+  margin: 1.5em 0;
+}
+
+#main ul {
+  margin: 10px 20px;
+}
+
+#main li{
+ margin-left: 10px;
+}
+
+#main a:link, #main a:visited {
+   color: #206AE8;
+}
+
+
+#main a:hover, #main a:focus {
+   color: #333;
+}
+
+ul.tabs {
+	list-style: none;
+	float: right;
+} 
+.tabs li {
+	list-style: none;
+	font-size: .8em;
+	display: inline;
+	margin: 0 3px;
+} 
+.tabs li a {
+	padding:  4px 0 0 23px;
+} 
+.tabs li a.print {
+	background: url("/styles/images/printer.gif") center left no-repeat;
+}
+.tabs li a.email {
+	background: url("/styles/images/email.gif") center left no-repeat;
+} 
+.tabs li a.pdf {
+	background: url("/styles/images/pdf.gif") center left no-repeat;
+}
+
+
+#sidebar {
+  padding: 20px 0 0 1px;
+  float:left;
+  width:200px;
+  height: 100%;
+  color: #fff;
+  font-weight: normal;
+  font-size: .92em;
+}
+#sidebar h5 {
+  margin: 10px 0 5px 0;
+  font-size: 120%;
+  color: #333;
+}
+#sidebar p {
+	padding: 0 15px 0 0;
+	margin: 0 0 20px 0;
+}
+#sidebar ul {
+	margin: 0 0 20px 5px;
+	padding: 0 0 0 0;
+	list-style: none;
+}
+#sidebar ul li {
+	margin: 0 0 5px 0;
+	list-style: none;
+}
+#sidebar a:link {
+	 width: 90%;
+	 display: block;
+   color: #FCFCFC;
+   text-decoration: underline;
+   padding: 3px;
+}
+#sidebar a:visited {
+         width: 90%;
+         display: block;
+   color: #FCFCFC;
+   text-decoration: underline;
+   padding: 3px;
+}
+
+
+#sidebar a:hover, #sidebar a:focus {
+   color: #FCFCFC;
+   text-decoration: none;
+   background: black;
+}
+
+#side-recent a:link, #side-recent a:visited {
+         width: 90%;
+         display: block;
+   color: #FCFCFC;
+   text-decoration: underline;
+   padding: 3px;
+}
+
+ul#footer {
+  width: 100%;
+  position: relative;
+  bottom: 0;
+  left: 0;
+  font-size: .9em;
+  list-style: none;
+  background: #89a1c8;
+  text-align: center;
+  padding: 16px 0;
+
+}
+ul#footer li {
+  display: inline;
+  margin: 0 10px;
+  color: #fff;
+}
+
+/* --- various --- */
+img a, a img {
+   border: none;
+}
+
+cite {
+  font-size: .9em; 
+  font-style: normal; 
+  font-weight: bold;
+}
+
+acronym, abbr {
+  cursor: help;
+  border-bottom: 1px dashed #999;
+  letter-spacing: .07em;
+}
+
+.navigation {
+	list-style: none;
+  padding: 0 1em 2em 0; 
+  margin: 0 0 0 15px; 
+  font-size: 1em;
+}
+.center {
+  text-align: center;
+}
+.alignright {
+  float: right;
+}	
+.alignleft {
+  float: left;
+}
+
+/* --- search/subscribe form --- */
+#searchbox {
+	text-align: left;
+	margin: 5px 0 10px 5px;
+}
+
+/* -- nav -- */
+.mainnav {
+	font-size: .90em;
+}
+
+
+.botnav {
+	padding-top: 10px;
+	font-size: 1.5em;
+	text-decoration: bold;
+}
+.hilite1 { background-color: #cdf; }
+.hilite2 { background-color: #cfd; }
+.hilite3 { background-color: #dfc; }
+.hilite4 { background-color: #fdc; }
+.hilite5 { background-color: #fcd; }
+.hilite6 { background-color: #dcf; }
+
+#proofread  {
+	background-color: #ffce7b;
+	border: 1px solid #ffa500;
+	color: black;
+	font-weight: bold;
+	margin: 2em 0 1em;
+	padding: .5em 1em;
+	vertical-align: middle;
+	text-align: center;
+}
+
+
+#showhidelink {
+	font-size: 1.0em;
+	text-decoration: bold;
+	text-align: center
+}
+
+#showhidelink a:link {
+   color: #4075C9;
+}
+#showhidelink a:hover {
+   color: #333;
+}
+
+.answer {
+	display:none;
+	border-style:solid;
+	margin:10px;
+	padding:10px;
+}
+
+.notes {
+	border-style:solid;
+	border-width: 1px;
+	border-color: #FF0000;
+	margin: 10px;
+	padding:10px;
+}
+
+
+	
+
+
+.invertedshiftdown{
+  padding:0 0 20px 0;
+  width:100%;
+  border-top:5px solid #738FBF; 
+  background:#fff;
+  voice-family: "\"}\"";
+  voice-family:inherit;
+}
+.invertedshiftdown ul{
+  margin:0;
+  margin-left:0px; /*margin between first menu item and left browser edge*/
+  padding:0;
+  list-style:none;
+}
+.invertedshiftdown li{
+  display:inline;
+  margin:0 2px 0 0;
+  padding:0;
+  text-transform:uppercase;
+}
+.invertedshiftdown a{
+  float:left;
+  display:block;
+  font:bold 10px Arial;
+  color:#ff;
+  text-decoration:none;
+  margin:0 1px 0 0; /*Margin between each menu item*/
+  padding:5px 10px 9px 10px; /*Padding within each menu item*/
+  background-color:#738FBF; /*Default menu color*/
+/*BELOW 4 LINES add rounded bottom corners to each menu item.
+  ONLY WORKS IN FIREFOX AND FUTURE CSS3 CAPABLE BROWSERS
+  REMOVE IF DESIRED*/
+  -moz-border-radius-bottomleft:5px;
+  -webkit-border-bottom-left-radius:5px;
+  border-bottom-left-radius:5px;
+  -moz-border-radius-bottomright:5px;
+  -webkit-border-bottom-right-radius:5px;
+  border-bottom-right-radius:5px;
+}
+.invertedshiftdown a{
+  color:#fff;
+  text-decoration:none;
+}
+.invertedshiftdown a:hover{
+  color:#fff;
+  text-decoration:underline;
+}
+
+
+#myform{ /*CSS for sample search box. Remove if desired */
+  float:right;
+  margin:2px 0 0 0;
+  padding:0;
+}
+#myform .textinput{
+  width:90px;	
+  border:1px solid gray;
+}
+#myform .submit{
+  font:normal 10px Verdana;
+  height:22px;
+  border:1px solid #000000;
+  background-color:#738FBF;
+  color:#fff;
+}
+
+
+
+#container{background:#fff url(http://allaboutcircuits.com/styles/images/contRepeat.gif) top left repeat-y}
+
+
+
+
+#header {
+  height:103px;
+  background:#e1e1e2;
+}
+
+
+
+
+/* --- logo image styles ---*/
+.logo,.logo em {
+	width:261px;height:103px;
+	position:absolute;
+	left:0;top:0;
+	font-size:.1em;
+	display:block;
+	cursor:pointer
+}
+.logo em{background:url(http://forum.allaboutcircuits.com/images/misc/vbulletin3_logo_white.gif) top left no-repeat}
+.logo a:link,.logo a:visited,.logo a:hover{
+	color:#4075C9;
+	text-decoration:none
+}
+

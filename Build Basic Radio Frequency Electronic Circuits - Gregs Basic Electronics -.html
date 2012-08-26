@@ -1,0 +1,329 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<!-- saved from url=(0064)http://www.gregsbasicelectronics.com/circuits/radiofrequency.htm -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>Build Basic Radio Frequency Electronic Circuits - Gregs Basic Electronics - </title>
+
+
+
+<meta name="description" content="My goal is to explain radio frequency basic electronics to you in a friendy, easy manor keeping it fun and interesting">
+<meta name="keywords" content="basic radio frequency,electronics book,electronics report,rf,electronic circuits">
+<meta name="allow-search" content="yes">
+<meta name="robots" content="all, index, follow">
+<meta name="Classification" content="Basic Radio Frequency Electronic Circuits">
+<meta name="Language" content="en">
+<meta name="rating" content="General">
+<meta http-equiv="Pragma" content="no-cache">
+
+
+<style type="text/css">
+
+</style>
+<link rel="shortcut icon" href="http://www.gregsbasicelectronics.com/circuits/gbe.ico" type="image">
+<script type="text/javascript" async="" src="./Build Basic Radio Frequency Electronic Circuits - Gregs Basic Electronics -_files/ga.js"></script><script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-653824-5']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script></head>
+
+
+
+<body bgcolor="#334333">
+<center>
+
+<div style="width:83%;  background:#ffffff; padding:6px; font-family:Helvetica;">
+<img src="./Build Basic Radio Frequency Electronic Circuits - Gregs Basic Electronics -_files/gbelogo.gif" width="66%" border="0" alt="Gregs basic electronics - Basic Electronic Circuits And Simple Electronics Projects">
+
+<br clear="left">
+
+<div style="width:83%; background:white;">
+<font face="helvetica" size="2">
+
+<p align="left">
+<button style="background-color:lightgreen" onclick="window.location=&#39;http://www.gregsbasicelectronics.com&#39;">
+<img src="./Build Basic Radio Frequency Electronic Circuits - Gregs Basic Electronics -_files/gbesm.gif" height="20" alt="More Projects And Circuits">
+<font color="white"><b>Index Page</b></font></button>
+<br>
+<a href="http://www.gregsbasicelectronics.com/">
+<b>Click Here For More Projects And Circuits</b></a> 
+
+</p>
+
+
+
+<br clear="left">
+<br>
+
+
+
+<center>
+<font size="5">
+Building Basic Radio Frequency  Circuits</font>
+
+
+
+
+<h3><font face="arial" color="#555555">
+<p></p>
+
+
+A short explaination of amplitude modulation.</font></h3></center><font face="arial" color="#555555"></font>
+<font face="arial" size="3">
+<p align="left">
+AM radio receivers receive or demodulate amplitude modulated (AM) signals.  The most common source of these signals is of course
+todays Standard AM Radio Broadcast Band but shortwave stations use AM modulation as well.   Amplitude modulation was really
+developed between 1900 and 1917 by amateur radio experimenters ("hams").  Then when WW1 ended, commercial AM radio broadcasts
+began.
+<br><br>
+Amplitude modulation means that the 
+output power of a radio stations transmitter increases or decreases in accordance with the music or voice that is being 
+transmitted. 
+If we string out a length of wire, some of that transmitted energy will cause a small current to flow in our wire.
+That current will increase and decrease in step with the modulation of the carrier wave
+and if we hook the wire to a diode detector, the detector will detect or demodulate the signal leaving only the audio. 
+Now if we listen in a little earphone we hear the music or voice being transmitted.  Here is the problem, you will also hear 
+every other radio station within range, and all at the same time!  We need a filter.  Now, if you
+have a coil of wire the right diameter and with the correct number of turns you can use that with a capacitor to select 
+only the station you want and reject all the others. This is the basis of this little AM receiver project. 
+</p>
+<img src="./Build Basic Radio Frequency Electronic Circuits - Gregs Basic Electronics -_files/gcloop.gif" alt="Greg Carpenter with loop antenna"><br clear="left">
+<h2 align="center"> An unusual AM reflex T.R.F. receiver with loop antenna.</h2>
+
+<br>
+<p align="center"><font size="5"><b>The AM Loop Reflex Radio</b></font>
+</p>
+<p align="left">
+This radio is unusual as it is a reflex type circuit.  The term reflex means a circuit is amplifying two different
+but related signals at the same.  In this case RF and Audio. Reflex circuits were very popular in years past but
+not used much today.
+<br><br>
+This radio consists of the resonant loop antenna, an RF/audio pre-amp, diode detector, and a IC audio power amplifier.
+The loop antenna can be tuned across the AM band and has an OK 'Q' so it's fairly selective.  The output of the loop
+goes to the transistor RF amplifier and then to the diode detector for demodulation.  The audio output from the diode
+is then fed back into the transistor via the loop.  This time the transistor acts as an audio amplifier.  The audio now goes to the
+IC power amplifier and then to the speaker or headphone.  The advantage of this radio over a crystal set, is it
+does not need a long wire antenna or a good earth ground to work.  The disadvantage is that it requires power to
+operate but has enough output to drive a small speaker.  The other nice thing is since it's a T.R.F (tuned radio frequency)
+type radio, the received frequency depends only on the number of turns on the loop.  If you want a shortwave radio use
+less turns.  For a VLF radio use more.  More on this topic later.  This radio is not the most sensitive thing you will ever see,
+but it will do a very surprising job and it's easy to build.
+
+</p><p align="center">
+<img src="./Build Basic Radio Frequency Electronic Circuits - Gregs Basic Electronics -_files/reflex.gif" alt="am reflex radio schematic">
+</p>
+
+<p><font face="helvetica">
+Parts List
+</font><table cellpadding="8" width="100%" bgcolor="#EEEEFF" align="center" border="1">
+<tbody><tr><th>Capacitors
+</th><th>Resistors
+</th><th>Transistors
+</th><th>Diodes
+</th><th>IC's
+</th><th>Misc.
+</th></tr><tr>
+</tr></tbody><tbody>
+
+<tr><td valign="top" width="120"><font size="2">
+C1&nbsp;&nbsp;  360 pF variable<br>
+C2&nbsp;&nbsp;  .047 uF<br>
+
+C3, C5&nbsp;&nbsp;  .001 uF<br>
+C4, C7&nbsp;&nbsp;  0.01 uF<br>
+
+C6&nbsp;&nbsp;  1 uF 16v<br>
+
+C8&nbsp;&nbsp;  470 uF 16v<br>
+
+C9&nbsp;&nbsp;  100 uF 16v<br>
+C10&nbsp;&nbsp; 0.1 uF 
+</font></td><td valign="top" width="120"><font size="2">
+R1  82K 1/4 watt<br>
+R2  10K 1/4 watt<br>
+R3  470 ohm 1/4 watt<br>
+R4  4.7K 1/4 watt<br>
+R5  33K 1/4 watt<br>
+
+R6  5.6K 1/4 watt<br>
+R7  10 ohm 1/4 watt<br>
+VR1 10K audio pot
+</font></td><td width="100"><font size="2">
+Q1  2N3904 NPN
+</font></td><td width="120"><font size="2">
+D1  1N34 germanium 
+</font></td><td width="120"><font size="2">
+U1  LM386 
+</font></td><td width="120"><font size="2">
+S1-- s.p.s.t. switch<br>
+RFC1-- 100uH<br>
+9V battery<br>
+
+Small speaker
+
+</font></td></tr></tbody></table>
+</p><p align="center">
+<img src="./Build Basic Radio Frequency Electronic Circuits - Gregs Basic Electronics -_files/2n3904.gif" alt="2N3904 lead connections"><img src="./Build Basic Radio Frequency Electronic Circuits - Gregs Basic Electronics -_files/lm386.gif" alt="LM386 lead connections">
+<br clear="left"><br><br>
+<b>Loop Antenna Construction</b>
+</p>
+<p align="left">
+The loop antenna is made out one piece of 1X2 pine lumber 6 feet long.  Cut the piece in half so that each section is now
+3 feet long.  Find the center of each and cut a slot the exact width width of the narrow dimension (3/4") on both sections
+the cut should extend down half way through the piece on each.  Now slide and tap the two sections together to form a "X".  You
+may want to glue the two together.
+<br><br>
+Insert two small wood screws side by side near the center of the "X" on one of the cross arms.  This will be the starting
+and ending points for the wire that is wound around the outside of the "X" forming the main antenna.  Now insert two more
+wood screws on the oposite side of the first two.  This will be the starting and ending points for the single turn loop
+of wire that couples the main loop into the radio.
+<br><br>
+Starting at one of the two side by side screws, wrap the wire around the screw a few times to hold it and then
+begin to wind the main loop using 26 gauge enameled copper magnet wire. 
+Leave at least 6 inches of wire "free" so you can connect later.  Wind 6 turns of wire around the loop and then back down to 
+the other screw, leaving 6 inches free again before cutting.  Try to keep the windings good and tight as you go around.
+<br><br>
+Now beginning at one of the other two screws, begin winding a single turn of wire around the loop and again leave 6 or so inches of wire
+free at both screws.  This is the coupling loop. (see schematic above)
+<br><br><font size="5" color="teal">
+A word of warning...</font>after you build this, be careful of walking down your street or even standing out in front of your
+house with the loop in your hands and headphones on your head, as your neighbors will think you are either some type of spy, or you are somehow listening in on them,
+or you are tracking space aliens!!
+
+<br><br>
+The 6 turn loop coil connects to the tuning capacitor C1. One wire to the stator and the other to the rotor.
+That's the <u>only connection</u> to the main loop.    The one turn loop coil connects to the radio.
+After finishing construction check all solder connections, check again to be sure the transistor is connected
+correctly then turn the volume control VR1 all the way down.  This radio has no AVC (automatic volume control) so if
+you live near an AM transmitter the signal will be VERY loud as you tune it in.  Turn on the switch S1 and carefully
+turn the volume control up to about half way.  Now tune around with C1 until you begin to hear stations.  Turn the loop
+until the signal is the strongest. To see what the finished loop antenna looks like, look down
+at the bottom of this page.  There is a picture of me holding it.  You can see capacitor C1 clearly.
+<br><br>
+
+</p><hr>
+<br>
+<font size="5">
+This is a very interesting video about a simple radio with a "long antenna"</font>
+<br>
+It's not me doing this, but I really thought it was interesting and very dangerous so don't do this yourself!
+<br><br>
+<div><iframe scrolling="no" width="768" height="432" src="http://1-2-3problemsolved.com/custom-video-player?v=TDUweDM1ZGYybkl8NHx8fDEwMDAwMTB8aHR0cDovLywsLCx0ciw3LDA%3D" frameborder="0"></iframe></div>
+
+<br><br>
+
+<hr>
+<center><font size="5">
+Here is an easy weekend project.<br>  The Handy Gate Dip Meter</font></center><font size="5"></font>
+<p align="left">
+<img src="./Build Basic Radio Frequency Electronic Circuits - Gregs Basic Electronics -_files/gdo.gif" align="left" border="1" alt="grid dip meter schematic">A dip meter is useful for so many things, that I don't know where to start.
+It can be used as a signal generator, a resonance indicator, AM detector and more.  The coil
+L1 should be made to plug in to the oscillator so you can use the meter over a very large
+frequency range.  With several plug in coils you could cover from the AM broadcast band up through 2 meters.
+If you have a frequency counter, you could use it to help make a calibrated dial on the GDO for each of the coils.  <br clear="left">A 
+communications receiver could be used in place of the counter just be sure you are hearing the fundamental and not one
+of the many harmonics from the meter. To use the meter to find the resonant frequency of any LC circuit just hold the coil
+on the meter near the unknown to couple some energy to it and tune the dial watching for a dip in the reading.  A high Q 
+circuit will make a very big dip almost all the way to zero.  When you find the biggest dip just read the dial and you will
+know the resonant frequency of that LC combination.  If you know the value of one of the two components, either the "C" or the "L"
+and you now know the resonant frequency, you can calculate the value of the unknown part.  Remember, at resonance both L and C will
+have equal reactance. An easy no math way to do this is with a reactance chart.  Let's say you know the value of "C". Now
+look up the reactance value for C at that frequency.  Next look for that same value of reactance for "L" on the chart and then
+just read the value of "L" right off the chart.  <img src="./Build Basic Radio Frequency Electronic Circuits - Gregs Basic Electronics -_files/gdoexample.gif" align="right" alt="dip meter plug in coils">By the way, C1 could be two varactor diodes back to back using a 
+linear pot to adjust the voltage to the diodes and thereby the frequency of the oscillator.  However the range of
+frequencies may not be as great with the same number of plug in coils as when using the mechanical variable capacitor. The photo at the right shows an example of plug in coils.  This GDO has an external meter but I think it's better to build the meter right into the box.  Less wires and cables hanging around.
+</p><p><img src="./Build Basic Radio Frequency Electronic Circuits - Gregs Basic Electronics -_files/heathgdo.gif" align="left" alt="heathkit grid dip meter"><br clear="right"><br>Here is an OLD advertisement from 1955 for a HeathKit GDO.  
+The HeathKit company was quite popular years ago. I built one of their very first color TV kits in the mid 1960's. That was like, <i>way cool</i>, back then!<br>Hmmm,  I wonder what $19.50 would be in todays money? $200??<br><br><br>
+
+<br clear="left"></p><hr>
+<p align="left"><img src="./Build Basic Radio Frequency Electronic Circuits - Gregs Basic Electronics -_files/tesla-coil.png" align="left" alt="nikola tesla alternating current" hspace="8"><font size="4"><b>Off The Subject But Interesting...</b></font><br><br>
+This is a little off the subject, but if you have ever heard of <a href="http://www.gregsbasicelectronics.com/nikolatesla/"><b>Nikola Tesla</b></a> you might know about his involvement with alternating current 
+and his battles with the Edison Company, later to become General Electric, which at the time, late 1890's, was building direct current motors and generators.</p><p align="left"><br> Anyway, Tesla has been sort of labeled as a "weird inventor scientist" but as it turns out many of his ideas hold water today!<br>
+</p>
+<br clear="left">
+<p>
+<b>NEW Video Concerning Nikola Tesla And The Tesla Effect</b> <font size="2">(3:40)</font><br>
+</p><div style="width:80%; background:lightgrey;">
+<object width="480" height="360"><param name="movie" value="http://www.youtube.com/v/yU3TE1AbaJs?version=3&amp;hl=en_US&amp;rel=0"><param name="allowFullScreen" value="true"><param name="allowscriptaccess" value="always"><embed src="http://www.youtube.com/v/yU3TE1AbaJs?version=3&amp;hl=en_US&amp;rel=0" type="application/x-shockwave-flash" width="480" height="360" allowscriptaccess="always" allowfullscreen="true"></object>
+</div>
+
+<br> A special website on <a href="http://www.gregsbasicelectronics.com/nikolatesla/"><font size="4"><b>Nikola Tesla And The Mysterious Tesla Effect</b></font></a>
+Find out what we now know about the old weird scientist himself.
+<p></p>
+
+<br clear="left"><br><hr>
+
+
+
+
+<p><br>
+
+<br clear="left">
+
+
+</p><p><br>
+
+
+
+
+
+<br clear="left">		
+<br>
+<table align="center" width="600"><tbody><tr><td><p align="center"><b>Fun Build It Yourself Kits</b></p>
+<iframe src="./Build Basic Radio Frequency Electronic Circuits - Gregs Basic Electronics -_files/cm(2).html" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+<iframe src="./Build Basic Radio Frequency Electronic Circuits - Gregs Basic Electronics -_files/cm.html" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+<iframe src="./Build Basic Radio Frequency Electronic Circuits - Gregs Basic Electronics -_files/cm(3).html" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+<iframe src="./Build Basic Radio Frequency Electronic Circuits - Gregs Basic Electronics -_files/cm(1).html" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+
+</td></tr></tbody></table>
+<br clear="left">
+<table bgcolor="gold" align="center"><tbody><tr><td valign="top"><font size="4" face="tahoma">
+
+<a href="http://www.amazon.com/gp/search?ie=UTF8&keywords=electronic%20kits&tag=123problems-20&index=industrial&linkCode=ur2&camp=1789&creative=9325" target="_new"><b>For The Complete List Of Electronic Kits Click Here</b></a><img src="./Build Basic Radio Frequency Electronic Circuits - Gregs Basic Electronics -_files/ir" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;">
+
+</font></td></tr></tbody></table><br>
+
+</p><p>
+
+
+
+</p>
+
+
+</font><p></p>
+<br><br><p> &nbsp;<br>&nbsp;<br></p>
+
+
+
+<p><br><br><br></p>
+	
+	
+
+<p align="center">
+
+<font face="Arial" size="2" color="#888888">Learn Basic Electronics By Building Basic Electronic Circuits © COPYRIGHT 2011 ALL RIGHTS RESERVED By GregsBasicElectronics.com<br><a href="http://www.gregsbasicelectronics.com/"><font color="#AAAAAA">GregsBasicElectronics.com</font></a></font>
+</p>
+
+
+
+<!-- Start of StatCounter Code -->
+<script type="text/javascript">
+var sc_project=3899500; 
+var sc_invisible=1; 
+var sc_partition=47; 
+var sc_click_stat=1; 
+var sc_security="9a5448f5"; 
+</script>
+
+<script type="text/javascript" src="./Build Basic Radio Frequency Electronic Circuits - Gregs Basic Electronics -_files/counter.js"></script><noscript></noscript>
+<!-- End of StatCounter Code -->
+
+
+
+ </font></div></div></center></body></html>

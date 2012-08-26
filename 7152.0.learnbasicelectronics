@@ -1,0 +1,578 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<html>
+
+<head>
+
+<title>Introduction To Basic Electronics - Basic Electronics Tutorial</title>
+
+<META name="description" CONTENT="There are two ways to learn basic electronics, the old long stodgy boring way or my fresh new hands-on meat and potatoes way."> 
+<META name="keywords" CONTENT="learn basic electronics,home study basic electronics course,basic electronics,basics of electronics,basic electronics tutorial, basic electronics mini course">
+<META name="allow-search" content="yes">
+<META name="robots" content="all, index">
+<META name="Classification" content="basic electronics tutorial">
+<META name="Language" content="en">
+<META name="rating" CONTENT="General">
+
+
+<link rel="shortcut icon" href="favicon.ico">
+<link rel="icon" type="image/gif" href="animated_favicon1.gif">
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-653824-5']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+</head>
+
+
+<body style="background: #4C86BA;">
+
+<center>
+
+<div style="width:87%; background:#4C86BA; border:0px solid; padding:12px;">
+
+<div style="width:83%; background:#ffffff; border:1px solid; padding:12px;">
+<font face="arial" size="2">
+<b>**</b>The special offer on this page is ending soon.</font>
+<br />
+<div style="width:78%; ">
+<p align="left"><font face="arial" size="3">
+<b>If you are interested in learning some basic electronics you need to read this page...
+ </b>
+</p></font>
+</div>
+<div style="width:83%; ">
+
+<img src="http://www.gregsbasicelectronics.com/learnbasicelectronics/images/wouldyoulike.png" width="98%" alt="Would You Like To Learn Enough Basic Electronics in 1 Jam-Packed-Package To Keep Your Fears About Not Understanding Basic Electronics From Ever Holding YOU Back?">
+
+<br /><br />
+<font face="verdana" size="4">
+FINALLY, Learn Simple Basic Electronics The Easy Way <br />At Home And At Your Own Speed</font>
+</p>
+<p align="left">
+<font face="tahoma" size="3">
+<b>Designed To Be Very Easy - <i><u>No Prior Knowledge Of Electronics Is Required</u></b></i>
+</font></p><br />
+<img src="http://www.gregsbasicelectronics.com/image/itbe500.png" width="44%">
+</div>
+
+
+
+
+<div style="width:92%; background:#ffffff; ">
+<font face="tahoma" size="5"><b>Would <u>You</u> Benefit From Learning Some Basic Electronics?</b></font>
+<p align="left"><font face="arial"><font size="3">
+<b>&nbsp;&nbsp;&nbsp;&nbsp;
+ <font color="green"><img src="images/checkmark-sq.gif">
+<i><u>YES</u></i></font> - <font size="3">You'll better understand electronic components like resistors, capacitors, inductors, and transistors.</font><br /><br />
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/checkmark-sq.gif"> <font color="green"><i><u>YES</u></i></font> - <font size="3">You could start looking for a higher paying job and be hired first. There are many employers  looking for people with some basic electronics background.</font><br /><br />
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/checkmark-sq.gif"> <font color="green"><i><u>YES</u></i></font> - <font size="3">You be able to take any beginning electronics class and have a strong head start over the other students.</font><br /><br />
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/checkmark-sq.gif"> <font color="green"><i><u>YES</u></i></font> - <font size="3">You'll be able to really start enjoying electronics as a fun hobby. Being able to build kits and circuits and having a better idea of how they work is a lot of fun.</font><br /><br />
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/checkmark-sq.gif"> <font color="green"><i><u>YES</u></i></font> - <font size="3">Because almost everything we do depends on electronics, a knowledge of basic electronics is something everyone needs.<br /><br /></font>
+</b>
+
+</font></p></div>
+<br />
+
+<font face="tahoma" size="6" color="blue"><i>
+THIS ALL NEW AND SIMPLIFIED BASIC ELECTRONICS TUTORAL<br />IS AN EASY LEARNING PROGRAM!</i></font> 
+
+<br /><br />
+
+<p>
+<div style="width:710; height:370; background:black; ">
+<br />.....
+<div><iframe scrolling="no" width="480" height="320" src="http://1-2-3problemsolved.com/custom-video-player?v=ZHZBQlJ5MEhrVDB8OXx8fDEwMTAwMTB8aHR0cDovL3d3dy5ncmVnc2Jhc2ljZWxlY3Ryb25pY3MuY29tL2ltYWdlcy9pdGJlLWNyb3AuZ2lmLCw2MCw5MCx0bCw3LDEwfGh0dHA6Ly93d3cuZ3JlZ3NiYXNpY2VsZWN0cm9uaWNzLmNvbS9sZWFybmJhc2ljZWxlY3Ryb25pY3Mv" frameborder="0"></iframe></div></div>
+</p>
+
+<font face="tahoma" size="6" color="#FF0000" size="6">
+<u>Introduction</u> <u>To</u> <u>Basic</u> <u>Electronics</u></font><br /><font face="tahoma" size="5">
+At Last YOU Can Learn Simple Electronics The Easy Way <br />At Home And At Your Own Speed</font>
+
+
+<br clear="left">
+<br /><br />
+<div style="width:86%; ">
+<p align="left">
+<font size="4">
+Over the years I have often met people who are interested in electronics and really want to learn it but are not sure if they want to invest the time or the money to take a full electronics course at a college or university.
+<br />
+<br />
+My course "<u>Introduction To Basic Electronics</u>" has inspired many people all over the world to continue on learning electronics, some  eventually have even received their degree in electronic engineering. Could this be you in the future?
+</font>
+</div>
+
+<br /><br />
+<font face="helvetica">
+<font size="6"><b>An Introduction To Basic Electronics</b></font><br /><br />
+
+
+
+<div style="width:95%; background:#ffffff;  padding:10px;">
+
+
+<p align="left">
+
+<img src="http://www.gregsbasicelectronics.com/image/itbe500.png" align="left" width="35%">
+<br /><br />
+<br />
+<font size="5" color="red"><b>Exactly What Will You Will Find Inside This Jam-Packed, Really Unusual, <u>Totally Downloadable</u>, Beginning Basic Electronics Tutorial?</b></font>
+<br />
+</p></b>
+</div>
+<br clear="left">
+
+
+
+<br /><br /><br />
+
+
+<div style="width:93%; background:#ffffff;padding:10px;">
+
+
+
+ 
+<font face="helvetica"><font size="6"><b>Your Journey Starts With This One eBook<br /><br /> 
+<img src="http://www.gregsbasicelectronics.com/learnbasicelectronics/images/introto.gif">
+<br />"<i>Introduction To Basic Electronics</i>"</b> </font><br />
+
+<p align="left"><font size="4"><br />
+This Is Where I Will Introduce You To All The <u>Basic Circuit Elements</u>. You Will Learn About...</font></p>
+
+
+<p align="left">
+<img src="http://www.gregsbasicelectronics.com/learnbasicelectronics/images/checkboxgreen.png" align="left">
+<font color="#002200"><b>1... <big><u><i>Current and Voltage</i></u></big></b></font><br />See what it takes to get electrons moving in a circuit.
+<br /><br />
+    <img src="http://www.gregsbasicelectronics.com/learnbasicelectronics/images/checkboxgreen.png" align="left"><font color="#002200"><b>2... <big> <u><i> Resistance and Resistors</i></u></big></b></font><br />
+Discover which materials can control the flow of those amazing little electrons.
+<br /><br />
+<img src="http://www.gregsbasicelectronics.com/learnbasicelectronics/images/checkboxgreen.png" align="left"><font color="#002200"><b>3... <big> <u><i>Capacitance and Capacitors</i></u></big></b></font><br />
+This explains how the strange Electric Field can be contained in a box.
+<br /><br />
+<img src="http://www.gregsbasicelectronics.com/learnbasicelectronics/images/checkboxgreen.png" align="left"><font color="#002200"><b>4... <big> <u><i>Inductance and Coils</i></u></big></b></font><br />
+Find out what happens when a Magnetic Field and a Coil of Wire come together.
+<br /><br />
+<img src="http://www.gregsbasicelectronics.com/learnbasicelectronics/images/checkboxgreen.png" align="left"><font color="#002200"><b>5... <big><u><i>Alternating Current</i></u></big></b></font><br />
+Here find out why it's so important to shuttle those electrons back and forth.
+<br /><br />
+<img src="http://www.gregsbasicelectronics.com/learnbasicelectronics/images/checkboxgreen.png" align="left"><font color="#002200"><b>6...<big><u><i>Transformers</i></u></big></b></font><br />
+See how transformers change something into something that looks like something else
+<br /><br />
+<img src="http://www.gregsbasicelectronics.com/learnbasicelectronics/images/checkboxgreen.png" align="left"><font color="#002200"><b>7... <big><u><i>Reactance</i></u></big></b></font><br />
+Learn about a weird type of resistance that consumes zero power.
+<br /><br />
+<img src="http://www.gregsbasicelectronics.com/learnbasicelectronics/images/checkboxgreen.png" align="left"><font color="#002200"><b>8... <big><u><i>Impedance</i></u></big></b></font><br />
+This is what happens when you combine resistance with reactance. 
+<br /><br />
+<img src="http://www.gregsbasicelectronics.com/learnbasicelectronics/images/checkboxgreen.png" align="left"><font color="#002200"><b>9... <big><u><i> Semiconductors - Transistors and Diodes</i></u></big></b></font><br />
+Discover the secrets to understanding these components.
+
+<p align="center">
+<br /><br />
+<font size="5"><span style="background-color:#FFFF00;"><b>Most Other Basic Electronics Courses End Here...</b></span></font><br />
+----------------------------------------------------------
+</p>
+<p align="left">
+<font size="6"><b>But Wait...</b></font>
+<font face="tahoma" size="4" color="#ff3333"><b>Now Along Comes Chapter 10!</b></font><br /><br />
+<img src="http://www.gregsbasicelectronics.com/learnbasicelectronics/images/checkboxgreen.png" align="left"><font color="#002200"><b>10... <big><u><i>Building Simple Circuits And Soldering Techniques</i></u></big></b></font><br />
+
+Chapter 10 is huge! It's where you start to put to use what you have learned so far. 
+<br />It's the Hands-On learning section! This is where things really start to get interesting. Included are <u>videos</u> of me soldering these circuits so you see exactly how it's done.<br /><br />
+Many people  memorize the theory but have very little hands on experience actually working with these circuits on their own. This experience is what will separate YOU from those who have only memorized enough theory to pass an exam or a class.
+</ul>
+
+<br clear="left" />
+<br /><br />
+<font size="4"><b>
+At the end of each chapter, one through nine, I've made you a list of all the important points covered in that chapter. This helps makes it even easier to learn.</b><br /><br />
+<img src="http://www.gregsbasicelectronics.com/image/audiocd.png" align="left" width="15%" hspace="15">
+<img src="http://www.gregsbasicelectronics.com/circuits/image/small-tv.png" align="left" width="10%" hspace="15">
+<br /><font size="2">To make things easier still, I've made all those chapter notes into 9 audios that you can download and listen to on a mobile device at your convenience. I also made them into 9 separate videos, all downloadable. </font><br />Flash or mp4 formats.
+</font></div>
+
+<br clear="left" />
+
+
+
+<br />
+<div style="width:85%; background:lightyellow; border:1px dashed #008800; padding:16px;">
+
+<p align="left"><font face="helvetica" size="3">
+
+<font size="4" face="arial" color="darkgreen">"<i>The real 'magic' in all of this is that my explanations  are simple enough that a smart kid can easily understand them yet they offer a strong, solid understanding of entry level basic electronics.</i>" 
+<br /><br />
+<font color="black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Now isn't that what you're really looking for?</font>
+
+
+<br />
+<div style=width:99%;">
+<p align="left">
+Or else you could end up with some long stodgy boring drawn out  explainations that are almost guaranteed to put you to sleep as they go on and on! </font></div></div>
+<br />
+
+
+<br /><br />
+<p><font size="5" font color="red" font face="tahoma"><i><b>A Totally Fresh Different Approach <br />
+And What It Will Do For You</b></i></font></p>
+<br />
+<div style="width:86%; ">
+<font face="helvetica"><font size="3">
+<p align="left">
+I teach basic electronics using a different, laid back approach. Can you tell? Starting at the very beginning, so <u>no prior knowledge of electronics is required</u>, I break everything down into small bite size topics, kind of like my breakfast. 
+<br /><br />
+Now you get to take all the time you
+need to do an experiment yourself. Not like lab class at school where you have to get it all done in an hour or two. </p> 
+<p align="left">
+For example, after I explain the relationship between voltage and resistance I give you a
+diagram and step by step pictures for a simple circuit  that shows how this principle works in real life.</p>  
+<p align="left">
+There's no pressure from me, from other students or teachers, nor are there any time limits or even any clocks!
+(except for your own of course) 
+<br /><br />
+I show you how do it on your own, you will be using your own work area, your own tools and doing it all in your own home.</p> 
+</div>
+<br />
+
+<h2 align="center"><font color=#FF0000" size="5">
+Now Learn Simple Basic Electronics The Best Way <br />At Home And At Your Own Speed</font></h2>
+
+
+<div style="width:86%; ">
+<p align="left"><img src="http://www.gregsbasicelectronics.com/learnbasicelectronics/images/lightbulb.gif" align="left">
+With my "<u>Introduction To Basic Electronics</u>" starter course
+you'll find yourself saying <br /><b><i>"yes... I see how this works"</i></b>
+
+over and over again as we go through each part of this mini basic electronics course. 
+<br /><br />
+At the end you will have a good working
+understanding of simple basic electronics plus you will be able to put together some basic circuits. You'll be able to solder electronic
+ components without damaging them and understand more of how it all works because you will now have all this new "hands on" experience with electronic parts.</p>
+</font>
+</div>
+<br /><br />
+<div style="width:85%; background:#ffffff; border:0px dashed #008800; padding:6px;">
+<br /><font size="6">PLUS...</font>
+<font face="helvetica"><font size="5" color="teal"><i><b>THIS INTRODUCTION TO BASIC ELECTRONICS STARTER COURSE ALSO INCLUDES ALL OF THESE HELPFUL EXTRAS</b></i>...</font>
+<p align="left"><font size="4" color="#004400">
+<br /><br />
+<img src="images/abc-radiowaves-antennas.png" width="100" align="left">
+<img src="http://www.gregsbasicelectronics.com/learnbasicelectronics/images/checkmark-sq.gif" align="left"><b>ABC's Of Radio Waves And Antennas</b></font> 
+<br /><br />
+<font size="2"><i><b>In This Book You'll Get A Good Introduction To Radio Frequency Circuits Which Is Missing In Most Basic Electronics Programs</b></i><br /> It contains a basic but solid understanding of 
+radio waves, antennas, and transmission lines plus I've included plenty of illustrations plus some little known information not often found in other books on the subject. Since we live in a wireless world a basic understanding of R.F. circuits is a must.</font></p>
+<br clear="left">
+<p align="left"><font size="4" color="#004400">
+
+<img src="http://www.gregsbasicelectronics.com/learnbasicelectronics/images/concise-sml.gif" width="100" align="left"><img src="http://www.gregsbasicelectronics.com/learnbasicelectronics/images/checkmark-sq.gif" align="left"><b>The Concise Glossary of Electronic Terms</b></font>  
+<br /><br />
+<font size="2"><i><b>A Book That Covers Everything From Absorption Wave Meters To Zeppelin Antennas.</b></i> Electronic Terms You Need To Know From A to Z.
+
+Electronics has a language all its own, it's a special vocabulary which helps make it easier to describe, explain and discuss ideas and equipment, and this 66 page "The Concise Glossary of Electronic Terms" covers everything from absorption wave meters to zeppelin antennas, with quick concise definitions you'll find helpful. </font></p>
+<br /><br />
+<br clear="left"><p align="left"><font size="4" color="#004400"><img src="http://www.gregsbasicelectronics.com/learnbasicelectronics/images/soldering-1.png" align="left" width="85" hspace=10>
+<img src="http://www.gregsbasicelectronics.com/learnbasicelectronics/images/checkmark-sq.gif" align="left"><b>Soldering Tips Part 1 And Part 2</font></b><br /> 
+<font size="2"><i><b>This Introduction To Basic Electronics Course Also INCLUDES
+These Two Special Reports On Soldering
+</b></i>
+<br clear="left">
+<img src="http://www.gregsbasicelectronics.com/learnbasicelectronics/images/soldering-2.png" align="left" width="85" hspace=10>
+
+Soldering is one of those things you have to do in order to learn it. So many people have no real experience with soldering. These two reports will give you my tips and special techniques, I'll show you exactly how to do it. 
+<font size="2"><i><b> - Again Something That Is Often Missing In Most Basic Electronics Programs.</b></i></font></p>
+<br clear="left">
+<p align="left"><font size="4" color="#004400"><img src="http://www.gregsbasicelectronics.com/learnbasicelectronics/images/ohmslawsecret.gif"  width="100" align="left">
+<img src="http://www.gregsbasicelectronics.com/learnbasicelectronics/images/checkmark-sq.gif" align="left"><b>Lost Secrets To Learning Ohms Law</b></font>  
+<br /><br />
+<font size="2"><i><b>This Book Contains A Special Teaching Method Which Makes It A Valuable Addition To Any Basic Electronics Study Course.</b></i> Learning Ohms Law seems to be a bit of an issue when it comes to learning basic electronics.
+
+Over the years I have developed a special method to teach basic Ohms Law to anyone who understands 5th grade maths, in just 15 minutes! This book contains that special method which makes it a valuable addition to any basic electronics course.
+</font></p>
+
+
+
+<br clear="left" /><br />
+<p align="left"><font size="4" color="#004400"><img src="http://www.gregsbasicelectronics.com/learnbasicelectronics/images/crystalsetcover.png" align="left" width="100">
+<img src="http://www.gregsbasicelectronics.com/learnbasicelectronics/images/checkmark-sq.gif" align="left"><b>Special Book On The Crystal Set Radio</b>  </font>
+<br /><br />
+<font size="2"><i><b>This Old Time Radio Will Help You to Futher Understand RF Theory And That's A Good Thing To Know In Todays Wireless World.</b></i> Today almost everything around has become wireless and contains a transmitter and receiver. This means that you must have some radio frequency skills and the best to start is at the beginning. </font></li>
+<br clear="left"><br /><br />
+<p align="left"><font size="4" color="#004400"><img src="http://www.gregsbasicelectronics.com/learnbasicelectronics/images/funelectronicprojects.png" align="left" width="100">
+<img src="http://www.gregsbasicelectronics.com/learnbasicelectronics/images/checkmark-sq.gif" align="left"><b>Fun Electronic Projects </b></font>
+<br /><br />
+<font size="2"><i><b>Once you Have Learned Some Basic Electronics You Will Want To Build Something So There's 7 Easy To Build Circuits Included In This Home Mini Electronics Course.</b></i> 
+
+After you have gone through the mini course you'll be able to build all these simple electronic projects.
+</font></p>
+
+</div>
+<br /><br /><br />
+<div style="width:86%; ">
+<p align="left"><font size="4">
+<b>From Now On...</b></font></p>
+<font face="arial" size="3">
+<p align="left">
+The next time you order a simple electronic kit or find a project you want to build you will know a lot more about what you are doing and how it works. You might even see ways to improve it or make it do different things  and as time goes by you will get better and better at this as your "hands-on" experience grows and grows. 
+</p>
+
+
+
+<p align="left"><br /><font size="4">
+<b>Looking For A New Or Better Job?</b></font></p>
+<p align="left">
+    After completing my basic electronics hands-on meat and potatoes home mini course you should be able to ace the basic electronics exam employers in the electronics field give prospective employees, and you just might find yourself hired with a higher starting pay as well. </p>
+<p align="left"><br /><img src="http://www.gregsbasicelectronics.com/learnbasicelectronics/images/smiley1.gif" align="left">
+<b>If you have any desire to start learning electronics, even if it's for the second time, or just for a hobby, then my beginning basic electronics hands-on mini course could be just perfect for you. </b></p>
+<p align="left">
+The hands-on part means you gain practical experience with actual resistors, diodes, capacitors, transistors and it's laid back so you feel no pressure to learn and can take your time to experiment and try different things, to actually get your mind around it.</p><br />
+<img src="http://www.gregsbasicelectronics.com/learnbasicelectronics/images/checkmark.gif" alt="60 day money back guarantee" align="left">My basic electronics hands-on mini course also comes with a <br /><b><u>60 day money back guarantee</u></b>. So if you feel you didn't learn anything <br />from this course you can get your money back with no problems.</p>
+<p align="left"><br /><br /><font size="5">
+<b><u>Bottom Line</u> - How Much Does All This Cost?</b></font></p>
+<p align="left"><b>
+This entire "Introduction To Basic Electronics" course is easily worth $75 but I'm not asking that, because
+right now people don't have a ton of money to spend on things, even on important things like this type of education that can help them in so many different ways. So...
+<br /><br /><br /><img src="http://www.gregsbasicelectronics.com/image/shinyarrow-redsm.jpg" align="left">
+I'm offering the entire <u>"<i>Introduction To Basic Electronics</i>"</u> course to you right now  for the discount price of 
+<a href="http://1.123solved.pay.clickbank.net" target="cb">only $29.97</a> but don't wait to take me up on this offer because if you wait the offer may be gone, and you might never get around to learning simple basic electronics the way you can right now.</b></p> </big>
+<br /><br />
+</div>
+
+<p align="center"><font size="6" font color="red" font face="tahoma"><a href="http://1.123solved.pay.clickbank.net" target="cb"><b><u>Special Basic Electronics Home Course</u> <br />Total Package $29.97</b></font><br />
+<br />
+<img src="http://www.gregsbasicelectronics.com/images/instantaccess.png" border=0></a></p>
+
+<p align="center"><font face="tahoma" color="green" size="4"><b><u>Download</u> This Special Basic Electronics  Home Course  Package<br />
+while it's still priced ridiculously low And <span style="background-color:#FFFF00;">
+<font color="black"><u><i>SAVE </i>$$$</u></font></span></b></font>
+
+<br />
+<br />
+
+<div style="width:88%;">
+<p align="left">
+<img src="http://www.gregsbasicelectronics.com/learnbasicelectronics/images/checkmark-green2.png" border="0"><font size="5">
+<b>Remember This New Hands-On Home Basic Electronics Course Now Includes...</b></font>
+
+<div style="width:88%; background:white; border: 0px dashed #FF0000">
+<p align="left"><font color="teal" font size="5"><img src="http://www.gregsbasicelectronics.com/learnbasicelectronics/images/red-dot.gif" align="left"><b><i><u>Introduction To Basic Electronics</u></i></b></font> .. 
+<br /><b>
+This Is The <u>Complete</u> Introduction To Basic Electronics Home Course <br />Including All The Special Hands On Projects. </b><br /><br />
+
+
+<font color="teal" font size="5"><img src="http://www.gregsbasicelectronics.com/learnbasicelectronics/images/red-dot.gif" align="left"><b><i>ABC's Of Radio Waves And Antennas</i></b></font> .. 
+<br /><b>
+Easy understanding of radio waves, antennas, and simple transmission lines. <br />
+Very important information to know in todays wireless world.</b>
+
+
+<br /><br />
+
+<font color="teal" font size="5"><img src="http://www.gregsbasicelectronics.com/learnbasicelectronics/images/red-dot.gif" align="left"><b><i>The Lost Secret To Learning Ohms Law</i></b></font> .. 
+<br />
+<b>Learn my secret to teaching Ohms Law to my students and how you can learn Ohm's Law in 20 minutes or LESS!</b>
+
+<br /><br />
+<font color="teal" font size="5"><img src="http://www.gregsbasicelectronics.com/learnbasicelectronics/images/red-dot.gif" align="left"><b><i>Concise Glossary Of Electronic Terms</i></b></font> .. 
+<br />
+<b>Electronics has a language all its own, a special vocabulary which helps make it easier to describe, explain and discuss ideas and equipment, and this 66 page "Concise Glossary of Electronic Terms" covers everything from absorption wave meters to zeppelin antennas!</b> 
+</div>
+ 
+<br />
+<p align="left">
+<img src="http://www.gregsbasicelectronics.com/learnbasicelectronics/images/checkmark-green2.png" border="0"><font size="5">
+<b>PLUS This Introduction To Basic Electronics Tutorial Also Includes...</b></font><br /><br />
+<p align="left">
+<font color="teal" font size="5"><img src="http://www.gregsbasicelectronics.com/learnbasicelectronics/images/red-dot.gif" align="left" width="5%"><b>The Old Crystal Set Radio</b></font> .. <br /><b>Written to help you to master modern 
+<u>Radio Frequency Circuits</u> using an old simple method.</b><br />
+
+<br /><font color="teal" font size="5"><img src="http://www.gregsbasicelectronics.com/learnbasicelectronics/images/red-dot.gif" align="left" width="5%"><b>Fun Electronic Projects</b></font> .. <br /><b>When you're ready, you'll want to build a few simple circuits. So I've included these simple fun and easy weekend electronic projects</b><br />
+</p>
+
+</div>
+<br /><br />
+<img src="http://www.gregsbasicelectronics.com/learnbasicelectronics/images/checkmark-green2.png" border="0"><font size="4"><b>AND
+To Help You Learn To Solder Correctly I Have Included...</b></font><br />
+<div style="width:64%; background:white;">
+<p align="left">
+<img src="http://www.gregsbasicelectronics.com/learnbasicelectronics/images/solder1-special.png" align="left" alt="simple soldering">
+<font color="brown"><b>Basic Soldering Techniques Part 1</b><br />
+<br />
+<img src="http://www.gregsbasicelectronics.com/learnbasicelectronics/images/solder2-special.png" align="left">
+<b>Basic Soldering Techniques Part 2</b></font></p>
+</div>
+<br />
+<br clear="left">
+<br /><br />
+<hr width="80%" />
+
+<br /><br />
+
+<p align="center"><font size="5" face="tahoma" color="red"><b>The Deluxe Basic Electronics Special Package Only $29.97</b></font><br />
+</p>
+<img src="http://www.gregsbasicelectronics.com/image/itbe500.png" align="left" width="38%" alt="basic electronics tutorial">
+
+
+
+<p align="center"></p>
+<br />
+<p align="left"><font size="4"><b>
+<i><u>NOW THIS IS YOUR CHANCE...</u></i><br /><br />  
+
+Are You Willing To Follow 10 Jam Packed Chapters To Better Understand How Basic Electronic Components And Circuits Work? 
+
+
+</b><br /></font><font size="4"><br /><b>If you <u>DOWNLOAD</u> this entire basic electronics hands-on home course right now you can start learning basic electronics <u>your way</u> and at <u>your pace</u> starting today.</b><br /></font></b><br />
+</p>
+<br clear="left">
+
+<br /><br />
+
+<b>Now's The Time To Learn <u>Simple Basic Electronics</u> The Easy Way<br /> And Then Start Using And Enjoying Your New Skills In Electronics.</b>
+
+<p align="center">
+<img src="http://www.gregsbasicelectronics.com/learnbasicelectronics/images/abc-special.png" align="left">
+<img src="http://www.gregsbasicelectronics.com/learnbasicelectronics/images/lost-special.png" align="left">
+<img src="http://www.gregsbasicelectronics.com/learnbasicelectronics/images/concise-special.gif" align="left">
+<img src="http://www.gregsbasicelectronics.com/learnbasicelectronics/images/introto.gif" align="left" width="180">
+
+<img src="http://www.gregsbasicelectronics.com/learnbasicelectronics/images/solder1-special.png" align="left">
+<img src="http://www.gregsbasicelectronics.com/learnbasicelectronics/images/solder2-special.png" align="left"><br />
+<img src="http://www.gregsbasicelectronics.com/learnbasicelectronics/images/crystal-special.png" align="left">
+<img src="http://www.gregsbasicelectronics.com/learnbasicelectronics/images/fun-special.png" align="left">
+</p>
+<br clear="all" />
+
+<div style="width:80%">
+
+<p align="left">
+<img src="http://www.gregsbasicelectronics.com/image/audiocd.png" align="left" width="25%">
+<br />
+<b>Your basic electronics package includes video and audio review notes for each chapter.</b> <br />
+<br clear="left">
+<img src="http://www.gregsbasicelectronics.com/circuits/image/small-tv.png" align="left" width="18%">
+<br /><br />
+<br /><b>And don't forget... this download package also includes the construction videos
+for all the "hands on" projects.</b><br /><br />
+
+
+</p>
+</div>
+<br clear="left"><br />
+<p>
+<font face="helvetica"><font size="5" color="red" face="tahoma"><b><u>Here's How To Get Your Complete Basic Electronics Package Download At This Special $29.97 Price</u></b></font> <br/><br />
+<big><b>Click On The Link Below To The Secure Order Page <br /> Then
+Order And <u>Download</u></b></big></p><br />
+<img src="http://www.gregsbasicelectronics.com/image/arrowdown.gif"><br />
+
+<div style="width:85%; background:#ffffff;">
+
+<font size="5"><b>
+<a href="http://1.123solved.pay.clickbank.net" target="cb">Introduction To Basic Electronics Home Course</a></b></font>
+<br /><a href="http://1.123solved.pay.clickbank.net" target="cb"><img src="http://www.gregsbasicelectronics.com/learnbasicelectronics/images/creditcards.jpg" border="0"></a></p> <p align="right"><a href="http://1.123solved.pay.clickbank.net" target="cb">
+
+<br />
+<p align="center"><b>Right Now Still Only $29.97</b></a> <br /> Go Ahead, make a difference in your life! <br /><b>I'm Cheering For You!</b></p>
+<br />This is what the secure order page looks like.
+<br /><a href="http://1.123solved.pay.clickbank.net" target="cb">
+<img src="http://www.gregsbasicelectronics.com/learnbasicelectronics/images/orderform.jpg" border="0"></a>
+
+
+<br /><br />
+<img src="http://www.gregsbasicelectronics.com/learnbasicelectronics/images/secure.gif">
+<p align="center"><b>
+Instant Access - 24 Hours A Day - 7 Days A Week - 365 Days A Year!</b></p>
+<p align="center"><a href="http://1.123solved.pay.clickbank.net" target="cb">
+<img src="http://www.gregsbasicelectronics.com/images/instantaccess.png" border=0></a></p>
+
+
+
+
+<br clear="left"><img src="http://www.gregsbasicelectronics.com/learnbasicelectronics/images/cb-1.png">
+<p>&nbsp;<br /><font size="2">ClickBank is a registered trademark of Keynetics Inc., a Delaware corporation<br />This beginning basic electronics hands-on course contains downloadable eBooks.<br /> This is not a physical product.</font>
+
+
+
+<br />
+<hr width="90%" align="center"/><br />
+
+<img src="http://www.gregsbasicelectronics.com/learnbasicelectronics/images/flags.jpg">
+<br />
+<b>My simple basic electronics course has helped students in many countries. <br />It can also help you!</b>
+<br />
+<br /><br /><br /><br />
+<font size="2" face="verdana">
+<p align="left">
+The basic electronics hands-on  course contains downloadable eBooks.
+All my eBooks are formated in PDF format and will open with any PDF reader in either a MAC or  PC computer.  A good PDF reader like Adobe Acrobat is almost 100% likely already installed on your computer.   If not you can get
+
+<a href="http://www.adobe.com/products/acrobat/readstep2.html" target="_blank"><b>Adobe 
+                                  Acrobat Reader</b></a> here for free.
+</p>
+<br />
+
+
+
+
+
+<p align="center">
+<font face="Arial" size="2" color="#555555">Greg's Basic Electronics ... Learn Basic Electronics The Easy Way<br /><br />
+<a href="http://www.gregsbasicelectronics.com/privacy.html">Privacy</a> &nbsp;  
+
+<a href="http://www.gregsbasicelectronics.com/terms.htm">Terms & Copyright</a> &nbsp;
+<a href="http://www.gregsbasicelectronics.com/us.html">Contact Us</a> &nbsp; 
+
+<br /><br /> 
+ © COPYRIGHT 2004-2012 ALL RIGHTS RESERVED 
+By GregsBasicElectronics.com<br /><font color="#AAAAAA">GregsBasicElectronics.com</font></a></font>
+</td></tr></table>
+
+<!-- Start of StatCounter Code -->
+<script type="text/javascript">
+var sc_project=6097086; 
+var sc_invisible=1; 
+var sc_security="b89d4b01"; 
+
+</script>
+
+<script type="text/javascript"
+src="http://www.statcounter.com/counter/counter.js"></script><noscript><div
+class="statcounter"><a title="tumblr visit counter"
+href="http://www.statcounter.com/tumblr/"
+target="_blank"><img class="statcounter"
+src="http://c.statcounter.com/6097086/0/b89d4b01/1/"
+alt="tumblr visit counter" ></a></div></noscript>
+<!-- End of StatCounter Code -->
+</body></html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

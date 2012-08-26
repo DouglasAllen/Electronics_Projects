@@ -1,0 +1,33 @@
+body {margin: 0; padding:0;font: 81.25%/1.4 font-family: "Trebuchet MS", Georgia, Serif;background: #fff;color: #333}
+a:link, a:visited, a:hover, a:focus {color: black;text-decoration: none}
+#proofread, #google-ads, #header, .logo, .logo em, ul#nav,ul.tabs, #sidebar, ul#footer, #searchbox, .mainnav, .botnav {display: none}
+h1, h2, h3, h4, h5, h6 {font-family: "Trebuchet MS", Georgia, Serif;font-weight: normal;}
+h1 {font-size: 200%; color: #4075C9;}
+h2 {font-size: 190%}
+h3 {font-size: 180%}
+h4 {font-size: 170%}
+#container {width: auto;border: 0;margin: 0 5%;padding: 0}
+#contentWrap {text-align: left}
+#main {
+  position:relative;
+  margin: 0 auto
+}
+#main p {
+  margin: .5em 0
+}	
+.answer {
+	display: block;
+}
+
+.hidereveal {
+ display: none;
+}
+
+.showhidelink {
+ display: none;
+}
+
+
+.invertedshiftdown {
+ display: none;
+}
